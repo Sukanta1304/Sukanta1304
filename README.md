@@ -21,13 +21,12 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" title="Typescript" **alt="Typescript" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/101576636/214081448-d60e670d-53da-4d1b-8384-5da8621fd038.png" title="React" alt="React" width="40" height="40"/>&nbsp;
+   <img src="https://user-images.githubusercontent.com/101576636/214081469-bc53a538-1409-4dc5-b99e-2d985554383d.png" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/101576636/214081363-5cdb9960-c219-4a85-ab7f-eeb1d307dc83.png"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/101576636/214081335-15bf1fb1-5a49-4271-a7ac-b029d4eb6fd7.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/101576636/214081413-d8308b44-1208-4c8d-871c-1c69d65ecc88.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+   <img src="https://user-images.githubusercontent.com/101576636/214081495-31be0187-9419-4718-b0d7-25d8675a1768.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/101576636/214081532-aefa778e-6964-4986-88ac-66965a66c9a9.png" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/101576636/214083607-42d1c1c8-5289-4896-9759-376b90f3f21e.png" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 </div>
