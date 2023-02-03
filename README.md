@@ -27,6 +27,6 @@
   <img src="https://user-images.githubusercontent.com/101576636/214081335-15bf1fb1-5a49-4271-a7ac-b029d4eb6fd7.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/101576636/214081413-d8308b44-1208-4c8d-871c-1c69d65ecc88.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
    <img src="https://user-images.githubusercontent.com/101576636/214081495-31be0187-9419-4718-b0d7-25d8675a1768.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/101576636/214081532-aefa778e-6964-4986-88ac-66965a66c9a9.png" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/101576636/214081532-aefa778e-6964-4986-88ac-66965a66c9a9.png" title="Express" alt="Express" width="100" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/101576636/214083607-42d1c1c8-5289-4896-9759-376b90f3f21e.png" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 </div>
