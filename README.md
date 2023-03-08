@@ -30,3 +30,9 @@
   <img src="https://user-images.githubusercontent.com/101576636/214081532-aefa778e-6964-4986-88ac-66965a66c9a9.png" title="Express" alt="Express" width="100" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/101576636/214083607-42d1c1c8-5289-4896-9759-376b90f3f21e.png" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 </div>
+
+### Github Stats
+![Sukanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sukanta1304&show_icons=true&theme=tokyonight)
+
+### Languages I coded so far...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sukanta1304&layout=compact)](https://github.com/Sukanta1304/github-readme-stats)
