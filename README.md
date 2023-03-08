@@ -13,7 +13,7 @@
 :man_technologist: About Me : 
 - I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sukanta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sukanta-dolai-b80b9122b/)
 - Please checkout my Portfolio for more details .(https://sukanta1304.github.io/)
